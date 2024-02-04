@@ -1,0 +1,1082 @@
+[
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-7b",
+    "rstd": 5.162281049429576,
+    "acc": 40.09711595055916,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-13b",
+    "rstd": 3.0921246851524726,
+    "acc": 42.82519128899353,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-30b",
+    "rstd": 3.2326553255011765,
+    "acc": 55.707769276044736,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-65b",
+    "rstd": 1.617671081188351,
+    "acc": 60.39140670982931,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-7b-hf",
+    "rstd": 5.023127312158108,
+    "acc": 43.86698057680989,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-13b-hf",
+    "rstd": 2.7825836044154086,
+    "acc": 53.56827545615069,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-70b-hf",
+    "rstd": 2.539143318519272,
+    "acc": 65.58122424955857,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 4.158273861204022,
+    "acc": 48.020894643908186,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 3.3371143979364986,
+    "acc": 54.56592113007652,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 4.692761725860839,
+    "acc": 61.38905238375516,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 3.491710624366007,
+    "acc": 47.91200706297822,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 3.71096064730573,
+    "acc": 52.40582695703355,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 3.909391539674656,
+    "acc": 59.342260153031205,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 3.2352108752290945,
+    "acc": 50.16185991759859,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 2.856024994326249,
+    "acc": 55.999117127722194,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-7b",
+    "rstd": 3.527881920416216,
+    "acc": 30.654796939376105,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-40b",
+    "rstd": 2.3299674525401444,
+    "acc": 53.987639788110656,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-7b-instruct",
+    "rstd": 3.3624483078230396,
+    "acc": 31.79370217775162,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-40b-instruct",
+    "rstd": 2.042471479882772,
+    "acc": 52.9723366686286,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 0,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "ichat",
+    "rstd": 1.6413283105113614,
+    "acc": 68.82667157855958,
+    "cost": 2.799778964818567
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-7b",
+    "rstd": 3.378789777855411,
+    "acc": 40.46497939964685,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-13b",
+    "rstd": 4.476122052474616,
+    "acc": 48.74190700412007,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-30b",
+    "rstd": 2.8131226695256064,
+    "acc": 60.12213066509712,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "llama-65b",
+    "rstd": 1.631678322184578,
+    "acc": 64.67480871100648,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-7b-hf",
+    "rstd": 5.604100984848425,
+    "acc": 48.28134196586227,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-13b-hf",
+    "rstd": 3.803388479705201,
+    "acc": 56.10211889346674,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-70b-hf",
+    "rstd": 1.1112627542316735,
+    "acc": 69.83519717480871,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 4.066604500095091,
+    "acc": 49.20247204237786,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 4.419142915116694,
+    "acc": 55.80341377280754,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 1.619803780539541,
+    "acc": 64.13478516774573,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 2.6755141521575485,
+    "acc": 48.86992348440259,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 3.1078608137799586,
+    "acc": 54.268687463213645,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 2.8723051970540254,
+    "acc": 61.02413184226016,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 3.657208158465142,
+    "acc": 51.95261918775751,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 4.459799801502399,
+    "acc": 57.20423778693349,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-7b",
+    "rstd": 5.798913251743896,
+    "acc": 33.63449087698646,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-40b",
+    "rstd": 2.7420065316675055,
+    "acc": 57.05562095350206,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-7b-instruct",
+    "rstd": 1.8398578956561618,
+    "acc": 31.439081812831073,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "falcon-40b-instruct",
+    "rstd": 3.0730113542356183,
+    "acc": 55.42819305473809,
+    "cost": 2.7999558563861093
+  },
+  {
+    "num_shots": 5,
+    "source_task": "mmlu",
+    "target_task": "mmlu",
+    "model": "ichat",
+    "rstd": 0.6680115399085098,
+    "acc": 72.3116596058206,
+    "cost": 2.799778964818567
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-7b",
+    "rstd": 2.575624901328733,
+    "acc": 44.54935622317596,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-13b",
+    "rstd": 2.7092746719706295,
+    "acc": 56.72103004291846,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-30b",
+    "rstd": 1.816956835003996,
+    "acc": 70.09442060085837,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-65b",
+    "rstd": 1.5945516817349457,
+    "acc": 75.63948497854076,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-7b-hf",
+    "rstd": 3.5340147501010177,
+    "acc": 51.776824034334766,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-13b-hf",
+    "rstd": 2.853041453401306,
+    "acc": 65.25321888412017,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-70b-hf",
+    "rstd": 3.056510977485862,
+    "acc": 82.33476394849785,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 3.5160478309149035,
+    "acc": 59.072961373390555,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 4.516041578664061,
+    "acc": 68.068669527897,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 4.466598604211855,
+    "acc": 79.77682403433475,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 1.715841960197967,
+    "acc": 54.57510729613735,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 0.73152596837017,
+    "acc": 65.45922746781115,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 2.258448007140694,
+    "acc": 75.62231759656653,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 3.109044662346147,
+    "acc": 60.927038626609445,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 2.6696397451484293,
+    "acc": 70.4892703862661,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-7b",
+    "rstd": 3.615216648642839,
+    "acc": 32.63519313304721,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-40b",
+    "rstd": 3.5586803632672996,
+    "acc": 66.06008583690986,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-7b-instruct",
+    "rstd": 4.676203547846304,
+    "acc": 33.5793991416309,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-40b-instruct",
+    "rstd": 2.892619413249283,
+    "acc": 64.8755364806867,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 0,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "ichat",
+    "rstd": 1.9608164586144974,
+    "acc": 84.402407566638,
+    "cost": 2.7979363714531384
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-7b",
+    "rstd": 2.3598031902807493,
+    "acc": 47.10729613733905,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-13b",
+    "rstd": 5.095505427498492,
+    "acc": 59.48497854077253,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-30b",
+    "rstd": 2.3524925956105602,
+    "acc": 75.57081545064378,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "llama-65b",
+    "rstd": 1.9480497619091306,
+    "acc": 80.72103004291844,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-7b-hf",
+    "rstd": 2.8917352351776686,
+    "acc": 59.87982832618026,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-13b-hf",
+    "rstd": 3.198996361756531,
+    "acc": 68.90987124463518,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-70b-hf",
+    "rstd": 1.265228977271999,
+    "acc": 85.69957081545064,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 3.7176421079942292,
+    "acc": 60.738197424892704,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 2.519886011382193,
+    "acc": 69.80257510729612,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 3.1114025959626255,
+    "acc": 82.40343347639485,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 3.601502942851881,
+    "acc": 58.592274678111586,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 2.106127883730344,
+    "acc": 67.43347639484979,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 1.9252840818223234,
+    "acc": 76.87553648068669,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 3.6827475196127986,
+    "acc": 64.12017167381974,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 1.9646595954369452,
+    "acc": 72.20600858369099,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-7b",
+    "rstd": 7.928586546243624,
+    "acc": 34.57510729613735,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-40b",
+    "rstd": 1.950017600893149,
+    "acc": 71.70815450643777,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-7b-instruct",
+    "rstd": 1.67036515572454,
+    "acc": 32.42918454935623,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "falcon-40b-instruct",
+    "rstd": 1.7073424166614888,
+    "acc": 69.59656652360516,
+    "cost": 2.8
+  },
+  {
+    "num_shots": 5,
+    "source_task": "arc",
+    "target_task": "arc",
+    "model": "ichat",
+    "rstd": 1.6915338734492162,
+    "acc": 87.58383490971626,
+    "cost": 2.7979363714531384
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-7b",
+    "rstd": 3.9589091659722384,
+    "acc": 47.878289473684205,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-13b",
+    "rstd": 5.1854785763383875,
+    "acc": 61.67763157894738,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-30b",
+    "rstd": 4.818541985037925,
+    "acc": 69.09539473684211,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-65b",
+    "rstd": 3.052867957869758,
+    "acc": 71.66118421052632,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-7b-hf",
+    "rstd": 4.30130967835579,
+    "acc": 49.53947368421052,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-13b-hf",
+    "rstd": 3.919144810820517,
+    "acc": 63.125,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-70b-hf",
+    "rstd": 4.396254584385817,
+    "acc": 73.6842105263158,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 4.274302742170283,
+    "acc": 62.63157894736842,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 2.182237462995879,
+    "acc": 67.07236842105263,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 1.3230223748235228,
+    "acc": 76.08552631578948,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 1.6465139098285486,
+    "acc": 60.50986842105262,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 4.796560976627056,
+    "acc": 68.00986842105263,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 3.290623338919242,
+    "acc": 71.54605263157893,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 2.009626967611587,
+    "acc": 63.28947368421052,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 1.6045053514302932,
+    "acc": 68.93092105263158,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-7b",
+    "rstd": 3.3575276265680523,
+    "acc": 25.77302631578947,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-40b",
+    "rstd": 4.0664716306340045,
+    "acc": 66.99013157894737,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-7b-instruct",
+    "rstd": 3.9317696738477026,
+    "acc": 32.89473684210526,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-40b-instruct",
+    "rstd": 1.6675988158333215,
+    "acc": 69.83552631578948,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 0,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "ichat",
+    "rstd": 1.7406540417609242,
+    "acc": 77.24550898203593,
+    "cost": 3.3986313088109497
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-7b",
+    "rstd": 3.0684689872140014,
+    "acc": 52.253289473684205,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-13b",
+    "rstd": 3.121857958278081,
+    "acc": 65.72368421052633,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-30b",
+    "rstd": 2.8888042254934767,
+    "acc": 74.83552631578947,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "llama-65b",
+    "rstd": 2.252710912410401,
+    "acc": 77.59868421052632,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-7b-hf",
+    "rstd": 4.762822194525269,
+    "acc": 61.940789473684205,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-13b-hf",
+    "rstd": 4.166339614455406,
+    "acc": 70.52631578947368,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-70b-hf",
+    "rstd": 1.4336333771393708,
+    "acc": 80.0328947368421,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-7b-chat-hf",
+    "rstd": 5.711124115669358,
+    "acc": 63.27302631578948,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-13b-chat-hf",
+    "rstd": 4.178142522805177,
+    "acc": 70.97039473684211,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "Llama-2-70b-chat-hf",
+    "rstd": 2.496090078032348,
+    "acc": 78.53618421052632,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-7b-v1.3",
+    "rstd": 2.532679175001147,
+    "acc": 62.7796052631579,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-13b-v1.3",
+    "rstd": 4.713893886608095,
+    "acc": 68.58552631578948,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-33b-v1.3",
+    "rstd": 2.878122278990514,
+    "acc": 75.11513157894737,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-7b-v1.5",
+    "rstd": 3.874012112596051,
+    "acc": 64.85197368421053,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "vicuna-13b-v1.5",
+    "rstd": 3.780146704783032,
+    "acc": 72.35197368421055,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-7b",
+    "rstd": 5.76035883156993,
+    "acc": 27.763157894736842,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-40b",
+    "rstd": 1.919054351513232,
+    "acc": 72.64802631578948,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-7b-instruct",
+    "rstd": 3.3224979555706975,
+    "acc": 30.131578947368418,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "falcon-40b-instruct",
+    "rstd": 2.63429127283153,
+    "acc": 71.26644736842104,
+    "cost": 3.398026315789474
+  },
+  {
+    "num_shots": 5,
+    "source_task": "csqa",
+    "target_task": "csqa",
+    "model": "ichat",
+    "rstd": 2.3712443578630724,
+    "acc": 81.57399486740805,
+    "cost": 3.3986313088109497
+  }
+]
